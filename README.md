@@ -110,22 +110,23 @@ Welcome to the Ultimate DevOps and Cloud Learning Resources repository! This pag
   <p>Here are some comprehensive resources to learn about cloud platforms such as AWS, Google Cloud Platform, and Microsoft Azure:</p>
   
   <h4>1. AWS (Amazon Web Services)</h4>
-  <ul>
-    <li><a href="https://aws.amazon.com/documentation/" target="_blank">Documentation</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=aws-full-course" target="_blank">Full Course: Watch the playlist</a></li>
-  </ul>
+<ul>
+  <li><a href="https://aws.amazon.com/documentation/" target="_blank">Documentation</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=_W1HnDa0tsZvw5zK" target="_blank">Full Course: Watch the playlist</a></li>
+</ul>
 
-  <h4>2. GCP (Google Cloud Platform)</h4>
-  <ul>
-    <li><a href="https://cloud.google.com/docs" target="_blank">Documentation</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-gcp-course-link" target="_blank">Full Course: Watch the video</a></li>
-  </ul>
+ <h4>2. GCP (Google Cloud Platform)</h4>
+<ul>
+  <li><a href="https://cloud.google.com/docs" target="_blank">Documentation</a></li>
+  <li><a href="https://youtu.be/fZOz13joN0o?si=a77cF0HCrHpFcYVU" target="_blank">Full Course: Watch the video</a></li>
+</ul>
 
   <h4>3. Azure</h4>
-  <ul>
-    <li><a href="https://docs.microsoft.com/en-us/azure/?view=azure-devops" target="_blank">Documentation</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=azure-full-course" target="_blank">Full Course: Watch the playlist</a></li>
-  </ul>
+<ul>
+  <li><a href="https://docs.microsoft.com/en-us/azure/?view=azure-devops" target="_blank">Documentation</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR&si=Chy0ZcRqZouGvU8A" target="_blank">Full Course: Watch the playlist</a></li>
+</ul>
+
 
 </div>
 
@@ -141,16 +142,18 @@ Welcome to the Ultimate DevOps and Cloud Learning Resources repository! This pag
     <li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk" target="_blank">Git and GitHub for Beginners - Full Course</a></li>
   </ul>
 
-  <h4>2. GitHub</h4>
-  <ul>
-    <li><a href="https://docs.github.com/en/get-started" target="_blank">GitHub Docs</a></li>
-    <li><a href="https://www.youtube.com/watch?v=0fYo9KcVgO8" target="_blank">GitHub Crash Course for Beginners</a></li>
-  </ul>
+ <h4>2. GitHub</h4>
+<ul>
+  <li><a href="https://docs.github.com/en/get-started" target="_blank">GitHub Docs</a></li>
+  <li><a href="https://youtu.be/apGV9Kg7ics?si=rdLdNuoiQItpM29v" target="_blank">GitHub Crash Course for Beginners</a></li>
+</ul>
 
   <h4>3. Best Practices</h4>
-  <ul>
-    <li><a href="https://www.atlassian.com/git/tutorials/comparing/git-best-practices" target="_blank">Git Best Practices</a></li>
-  </ul>
+<ul>
+  <li><a href="https://www.atlassian.com/git/tutorials/comparing/git-best-practices" target="_blank">Git Best Practices</a></li>
+  <li><a href="https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60" target="_blank">Additional Best Practices</a></li>
+</ul>
+
 
 </div>
 
@@ -158,11 +161,11 @@ Welcome to the Ultimate DevOps and Cloud Learning Resources repository! This pag
 
 ## 🌟 A Message from Me
 
- I am thrilled to contribute to the world and support those who want to study DevOps! If you have suggestions or would like to make changes, feel free to fork this repository and modify it as you see fit. Let's learn and grow together!
+I’m glad to support those interested in learning DevOps. If you have suggestions or want to make changes, feel free to fork this repository. 
 
 ---
 
-> 💬 If you find these resources helpful, please give a star to this repository! ⭐
+> 💬 If you find these resources useful, please give this repository a star! ⭐
 
 ---
 
