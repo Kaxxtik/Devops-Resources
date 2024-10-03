@@ -27,11 +27,12 @@ Welcome to the Ultimate DevOps and Cloud Learning Resources repository! This pag
 
 <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; border:1px solid #ccc;">
   
-  <h3>1. <a href="https://www.youtube.com/watch?v=ZrCslMRgV_4" target="_blank">Networking - YouTube Video</a></h3>
-  <p>Effective video to get a quick introduction to networking.</p>
+<h3>1. <a href="https://youtu.be/IPvYjXCsTg8?si=eG5Hex-T42AR92Ik" target="_blank">Networking - YouTube Video</a></h3>
+<p>Effective video to get a quick introduction to networking.</p>
 
-  <h3>2. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-probability-and-random-processes-fall-2011/video-lectures/" target="_blank">MIT Networking Playlist</a></h3>
-  <p>Gain a deeper understanding of networking from MIT lectures.</p>
+<h3>2. <a href="https://youtube.com/playlist?list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE&si=pUnCe9oW-G9dd014" target="_blank">MIT Networking Playlist</a></h3>
+<p>Gain a deeper understanding of networking from MIT lectures.</p>
+
 
   ><h3>💡 Pro Tip</h3>
   ><p>Supplement your learning with books like "Frozen Networking" (Available in the Books section of this repo).</p>
@@ -45,57 +46,58 @@ Welcome to the Ultimate DevOps and Cloud Learning Resources repository! This pag
 <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; border:1px solid #ccc;">
 
   <h3>1. Docker</h3>
-  <ul>
-    <li><a href="https://docs.docker.com/" target="_blank">Documentation</a> | <a href="https://docs.docker.com/get-started/" target="_blank">Getting Started</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-docker-course-link" target="_blank">Full Course: Watch the video</a></li>
-  </ul>
+<ul>
+  <li><a href="https://docs.docker.com/" target="_blank">Documentation</a> | <a href="https://docs.docker.com/get-started/" target="_blank">Getting Started</a></li>
+  <li><a href="https://youtu.be/RqTEHSBrYFw?si=aSBt6H37rSbddHch" target="_blank">Full Course: Watch the video</a></li>
+</ul>
 
   <h3>2. Kubernetes</h3>
-  <ul>
-    <li><a href="https://kubernetes.io/docs/home/" target="_blank">Documentation</a> | <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/" target="_blank">Kubernetes Basics</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-kubernetes-course-link" target="_blank">Full Course: Watch the video</a></li>
-  </ul>
+<ul>
+  <li><a href="https://kubernetes.io/docs/home/" target="_blank">Documentation</a> | <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/" target="_blank">Kubernetes Basics</a></li>
+  <li><a href="https://youtu.be/2T86xAtR6Fo?si=H8mI37Xh06Qit2KI" target="_blank">Full Course: Watch the video</a></li>
+</ul>
 
   <h3>3. Terraform</h3>
-  <ul>
-    <li><a href="https://www.terraform.io/docs" target="_blank">Documentation</a> | <a href="https://learn.hashicorp.com/collections/terraform" target="_blank">Getting Started</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-terraform-course-link" target="_blank">Full Course: Watch the video</a></li>
-  </ul>
+<ul>
+  <li><a href="https://www.terraform.io/docs" target="_blank">Documentation</a> | <a href="https://learn.hashicorp.com/collections/terraform" target="_blank">Getting Started</a></li>
+  <li><a href="https://youtu.be/7xngnjfIlK4?si=_gmSYu8dV0j0m136" target="_blank">Full Course: Watch the video</a></li>
+</ul>
 
-  <h3>4. Jenkins</h3>
-  <ul>
-    <li><a href="https://www.jenkins.io/doc/" target="_blank">Documentation</a> | <a href="https://www.jenkins.io/doc/book/" target="_blank">Jenkins Book</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=jenkins-series" target="_blank">Playlist: Watch the series</a></li>
-  </ul>
+ <h3>4. Jenkins</h3>
+<ul>
+  <li><a href="https://www.jenkins.io/doc/" target="_blank">Documentation</a> | <a href="https://www.jenkins.io/doc/book/" target="_blank">Jenkins Book</a></li>
+  <li><a href="https://youtube.com/playlist?list=PL6flErFppaj35spJjPy41-lruDjw2kRV-&si=VAdeqNxdRFMkgjYh" target="_blank">Playlist: Watch the series</a></li>
+</ul>
 
   <h3>5. Ansible</h3>
-  <ul>
-    <li><a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank">Documentation</a> | <a href="https://docs.ansible.com/ansible/latest/user_guide/index.html" target="_blank">Getting Started</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=ansible-series" target="_blank">Playlist: Watch the series</a></li>
-  </ul>
+<ul>
+  <li><a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank">Documentation</a> | <a href="https://docs.ansible.com/ansible/latest/user_guide/index.html" target="_blank">Getting Started</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG&si=1Mtqy5-l0R5eqEGR" target="_blank">Playlist: Watch the series</a></li>
+</ul>
 
-  <h3>6. Prometheus</h3>
-  <ul>
-    <li><a href="https://prometheus.io/docs/introduction/overview/" target="_blank">Documentation</a> | <a href="https://prometheus.io/docs/introduction/getting_started/" target="_blank">Getting Started</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=prometheus-series" target="_blank">Playlist: Watch the series</a></li>
-  </ul>
+<h3>6. Prometheus</h3>
+<ul>
+  <li><a href="https://prometheus.io/docs/introduction/overview/" target="_blank">Documentation</a> | <a href="https://prometheus.io/docs/introduction/getting_started/" target="_blank">Getting Started</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h&si=My0UU1QQWjoc0PCH" target="_blank">Playlist: Watch the series</a></li>
+</ul>
 
-  <h3>7. GitLab CI/CD</h3>
-  <ul>
-    <li><a href="https://docs.gitlab.com/ee/ci/" target="_blank">Documentation</a> | <a href="https://docs.gitlab.com/ee/ci/quick_start/" target="_blank">Quick Start</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-gitlab-course-link" target="_blank">Course: Watch the video</a></li>
-  </ul>
+ <h3>7. GitLab CI/CD</h3>
+<ul>
+  <li><a href="https://docs.gitlab.com/ee/ci/" target="_blank">Documentation</a> | <a href="https://docs.gitlab.com/ee/ci/quick_start/" target="_blank">Quick Start</a></li>
+  <li><a href="https://youtu.be/Typ9U6k6g5s?si=CSIE_S8A7Et7jFk_" target="_blank">Course: Watch the video</a></li>
+</ul>
 
-  <h3>8. Argo CD & GitOps</h3>
-  <ul>
-    <li><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">Argo CD Documentation</a> | <a href="https://www.gitops.tech/" target="_blank">GitOps Best Practices</a></li>
-    <li><a href="https://www.youtube.com/watch?v=some-argocd-course-link" target="_blank">Full Course: Watch the video</a></li>
-  </ul>
+ <h3>8. Argo CD & GitOps</h3>
+<ul>
+  <li><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">Argo CD Documentation</a> | <a href="https://www.gitops.tech/" target="_blank">GitOps Best Practices</a></li>
+  <li><a href="https://youtu.be/MeU5_k9ssrs?si=LhshZSlrFNdZ5gm_" target="_blank">Full Course: Watch the video</a></li>
+</ul>
 
   <h3>9. YAML</h3>
-  <ul>
-    <li><a href="https://www.youtube.com/watch?v=some-yaml-course-link" target="_blank">Course: Watch the video</a></li>
-  </ul>
+<ul>
+  <li><a href="https://youtu.be/IA90BTozdow?si=VDvCEt8Y1oblBYiW" target="_blank">Course: Watch the video</a></li>
+</ul>
+
 
 </div>
 
